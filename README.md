@@ -1,2 +1,4 @@
 # SETTING-UP-A-VIRTUAL-LAB-ENVIRONMENT
-A virtualized environment featuring a windows server and two windows 8 client
+In this project i created 3 different virtual machines 
+- Windows server
+- 2 windows 8 client
